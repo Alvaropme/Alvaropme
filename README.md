@@ -12,7 +12,7 @@
 
 ## ⚡ GitHub Activity Snapshot
 
-✨ **Total Contributions on 2025:** 17  
+✨ **Total Contributions on 2025:** 23 
 🔥 **Current Streak:** 1 day  
 🏆 **Longest Streak:** 6 day  
 📅 **Active Since:** Feb 18, 2019 – Present  
